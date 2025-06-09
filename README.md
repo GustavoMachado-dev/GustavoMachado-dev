@@ -1,6 +1,6 @@
-# 👨‍💻 Gustavo Lopes
+# 👨🏻‍💻 Gustavo Machado
 
-### Desenvolvedor Full Stack | Estudante de Ciência da Computação | Especialista em IA e Microsserviços
+### Desenvolvedor Full Stack | Estudante de Ciência da Computação
 
 > Transformando ideias em código e dados em insights 🚀
 
@@ -18,10 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### **IA & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -52,10 +48,10 @@
 
 ## 🎯 O que estou fazendo agora
 
-- 🌱 Aprofundando conhecimentos em **Machine Learning** e **Deep Learning**
+- 🌱 Aprofundando conhecimentos em **Microsserviços e Arquitetura de Software**
 - 🔭 Desenvolvendo APIs robustas com **Spring Boot**
 - 📊 Criando dashboards inteligentes com **Power BI**
-- 🤖 Explorando **Large Language Models** e **AI Engineering**
+- 🤖 Explorando **Large Language Models** e **Prompt AI Engineering**
 
 ---
 
