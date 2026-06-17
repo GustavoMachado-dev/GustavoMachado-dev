@@ -61,7 +61,7 @@
 
 - 🏭 Automating industrial engineering processes with **Python, ML, OCR & RAG** at Magna Engenharia
 - 🧠 Undergraduate thesis: **Neurobiologically-Inspired Neural Network Plasticity** (PyTorch / PUCRS)
-- 🤖 Building and benchmarking **local LLM** pipelines with Ollama, LangChain and LlamaIndex
+- 🤖 Building and benchmarking **local LLM** pipelines with Ollama.
 
 ---
 
